@@ -1,0 +1,5 @@
+问题：使用cmd命令运行java时出现：找不到或无法加载主类 LeapYear 原因: java.lang.NoClassDefFoundError:  wrong
+
+已解决：在eclipse写代码的时候里面会有package，运行时删掉即可。
+
+原因：未知
